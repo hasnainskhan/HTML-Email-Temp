@@ -1,1 +1,1 @@
-<h1>Soho Cent</h>    
+<h1>Soho Centr</h>    
