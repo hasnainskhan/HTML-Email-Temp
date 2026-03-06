@@ -2,4 +2,4 @@
 
 
 Developed by Hasnain babar
-Sr. Full Stack Web De
+Sr. Full Stack Web Dev
